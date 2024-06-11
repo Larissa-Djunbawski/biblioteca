@@ -2,6 +2,7 @@ const biblioteca = [];
 let livro = {};
 let opcao = 0;
 
+
 console.log("1. Para inserir um livro");
 console.log("2. Para remover um livro");
 console.log("3. para visualizar");
